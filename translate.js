@@ -20,7 +20,7 @@ Object.keys(enFile).forEach((o) => {
     return;
   }
   translate(value, { from: "en", to: lang }).then((res) => {
-    console.log(`Translated ${o} (${value}) to ${res.text}`);
+    console.log(`[${lang}] Translated ${o} (${value}) to ${res.text}`);
     newTrans[o] = res.text;
     fs.writeFileSync(
       `./lang/${lang}.json`,
