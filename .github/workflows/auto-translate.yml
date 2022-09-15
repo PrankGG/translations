@@ -1,0 +1,45 @@
+name: Auto Translate
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "lang/en.json"
+  workflow_dispatch:
+
+jobs:
+  AutoTranslate:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Auto Translate
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: "npm"
+      - run: npm i
+      - run: |
+          foreach n ( zh-CN zh-TW hi es fr ar bn ru pt id )
+            node translate.js $n
+          end
+
+      - name: Import GPG key
+        uses: crazy-max/ghaction-import-gpg@v5
+        with:
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+
+      - name: push to github
+        run: |
+          git config --global user.name "prankGGBot"
+          git config --global user.email "${{secrets.GH_BOT_EMAIL}}"
+          git add -A
+          git commit -m "Update translations from ${{ github.event.head_commit.id }}"
+          git push
