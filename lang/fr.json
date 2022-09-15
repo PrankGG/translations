@@ -1,15 +1,15 @@
 {
   "features": "Fonctionnalités",
-  "features-2-title": "Analytique",
-  "get-started": "Commencer",
-  "chat-viktor": "Viktor",
-  "features-1-title": "Canular",
-  "features-3-subtitle": "Commencez aujourd'hui et faites vos amis de 0,00 $!",
-  "features-2-subtitle": "Tu veux savoir que tes amis ont-ils été farcis? Consultez nos analyses pour voir combien de fois vos amis ont été farcis!",
-  "prankgg-subtitle": "Prank vos amis de aussi peu que 0,00 $!",
-  "features-3-title": "Et beaucoup plus!",
-  "features-1-subtitle": "Nous avons une grande sélection de farces pour que vos amis choisissent!",
-  "prankgg-title": "Canular. Ton. Amis",
   "features-subtitle": "Nous sommes les créateurs de DiscordGift.Site, un groupe de développeurs qui aiment les gens de plusieurs manières par le biais de Discord. Nous ne sommes pas affiliés à Discord, Inc. ou à l'un de ses affiliés.",
-  "chat-message-date": "Aujourd'hui à 00h51"
+  "features-1-subtitle": "Nous avons une grande sélection de farces pour que vos amis choisissent!",
+  "features-1-title": "Canular",
+  "features-2-subtitle": "Tu veux savoir que tes amis ont-ils été farcis? Consultez nos analyses pour voir combien de fois vos amis ont été farcis!",
+  "features-3-subtitle": "Commencez aujourd'hui et faites vos amis de 0,00 $!",
+  "features-3-title": "Et beaucoup plus!",
+  "get-started": "Commencer",
+  "prankgg-title": "Canular. Ton. Amis",
+  "features-2-title": "Analytique",
+  "prankgg-subtitle": "Prank vos amis de aussi peu que 0,00 $!",
+  "chat-message-date": "Aujourd'hui à 00h51",
+  "chat-viktor": "Viktor"
 }
