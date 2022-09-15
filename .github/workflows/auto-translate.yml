@@ -23,7 +23,11 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
       - run: npm i
-      - run: sh foreach n ( zh-CN zh-TW hi es fr ar bn ru pt id ); node translate.js $n; end;
+      - run: |
+          for lang in 'zh-CN' 'zh-TW' 'hi' 'es' 'fr' 'ar' 'bn' 'ru' 'pt' 'id' ;
+            do
+              node translate.js $lang
+            done
 
       - name: Import GPG key
         uses: crazy-max/ghaction-import-gpg@v5
