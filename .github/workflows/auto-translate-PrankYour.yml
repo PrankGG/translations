@@ -4,12 +4,12 @@ on:
   push:
     branches: ["main"]
     paths:
-      - "lang/en.json"
-      - ".github/workflows/auto-translate.yml"
+      - "lang/PrankYour/en.json"
+      - ".github/workflows/auto-translate-PrankYour.yml"
   workflow_dispatch:
 
 concurrency:
-  group: "AutoTranslate"
+  group: "AutoTranslatePrankYour"
   cancel-in-progress: true
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - name: Run Auto Translate
+      - name: Run Auto Translate PrankYour
         uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
@@ -31,7 +31,7 @@ jobs:
       - run: |
           for lang in 'zh-CN' 'zh-TW' 'hi' 'es' 'fr' 'ar' 'bn' 'ru' 'pt' 'id' 'ha' 'pa' 'de' 'ja' 'fa' 'sw' 'vi' 'te' 'it' 'jw' ;
             do
-              node translate.js $lang
+              node translate-PrankYour.js $lang
             done
 
       - name: Import GPG key
@@ -47,5 +47,5 @@ jobs:
           git config --global user.name "PrankGGBot"
           git config --global user.email "${{secrets.GH_BOT_EMAIL}}"
           git add -A
-          git commit -m "Update Translations from ${{ github.event.head_commit.id }}"
+          git commit -m "Update PrankYour Translations from ${{ github.event.head_commit.id }}"
           git push
