@@ -14,7 +14,7 @@ let enFile = JSON.parse(fs.readFileSync("./lang/PrankYour/en.json", "utf8"));
       //console.log(index, word);
     })
   );
-  fs.writeFileSync(`./lang/PrankYour/${lang}.json`, JSON.stringify(enFile));
+  fs.writeFileSync(`./lang/PrankYour/${lang}.json`, JSON.stringify(enFile, null, 2));
   console.log(`${langBold} Finished PrankYour translation!`);
   async function translate(value, index) {
     let translated = await googleTranslate(value, { from: "en", to: lang });
