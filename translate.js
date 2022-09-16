@@ -16,7 +16,7 @@ let overwrite = fs.existsSync(`./overwrite/${lang}.overwrite.json`)
       await translate(o);
     })
   );
-  fs.writeFileSync(`./lang/${lang}.json`, JSON.stringify(enFile));
+  fs.writeFileSync(`./lang/${lang}.json`, JSON.stringify(enFile, null, 2));
   console.log(`${langBold} Finished translation!`);
   async function translate(o) {
     let value = enFile[o];
