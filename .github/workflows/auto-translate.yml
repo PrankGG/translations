@@ -5,6 +5,7 @@ on:
     branches: ["main"]
     paths:
       - "lang/en.json"
+      - "overwrite/**"
       - ".github/workflows/auto-translate.yml"
   workflow_dispatch:
 
