@@ -29,10 +29,10 @@ jobs:
           cache: "npm"
       - run: npm i
       - run: |
-          for lang in 'zh-CN' 'zh-TW' 'hi' 'es' 'fr' 'ar' 'bn' 'ru' 'pt' 'id' 'ha' 'pa' 'de' 'ja' 'fa' 'sw' 'vi' 'te' 'it' 'jw' ;
+          while read lang
             do
               node translate-PrankYour.js $lang
-            done
+            done < langs.txt
 
       - name: Import GPG key
         uses: crazy-max/ghaction-import-gpg@v5
