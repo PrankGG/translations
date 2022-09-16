@@ -8,6 +8,10 @@ on:
       - ".github/workflows/auto-translate.yml"
   workflow_dispatch:
 
+concurrency:
+  group: "AutoTranslate"
+  cancel-in-progress: true
+
 jobs:
   AutoTranslate:
     runs-on: ubuntu-latest
