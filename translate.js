@@ -1,30 +1,38 @@
-const translate = require("@vitalets/google-translate-api");
+const googleTranslate = require("@vitalets/google-translate-api");
+const chalk = require("chalk");
 const fs = require("fs");
 
 let lang = process.argv[2];
+let langBold = chalk.bold.cyanBright(`[${lang}]`);
 let enFile = JSON.parse(fs.readFileSync("./lang/en.json", "utf8"));
 let overwrite = fs.existsSync(`./overwrite/${lang}.overwrite.json`)
   ? JSON.parse(fs.readFileSync(`./overwrite/${lang}.overwrite.json`, "utf8"))
   : {};
-let newTrans = {};
 
-Object.keys(enFile).forEach((o) => {
-  let value = enFile[o];
+(async () => {
+  console.log(`${langBold} Starting translation...`);
+  await Promise.all(
+    Object.keys(enFile).map(async (o) => {
+      await translate(o);
+    })
+  );
+  fs.writeFileSync(`./lang/${lang}.json`, JSON.stringify(enFile));
+  console.log(`${langBold} Finished translation!`);
+  async function translate(o) {
+    let value = enFile[o];
 
-  if (overwrite.hasOwnProperty(o)) {
-    newTrans[o] = overwrite[o];
-    fs.writeFileSync(
-      `./lang/${lang}.json`,
-      JSON.stringify(newTrans, null, 2)
+    if (overwrite.hasOwnProperty(o)) {
+      enFile[o] = overwrite[o];
+      return;
+    }
+
+    let translated = await googleTranslate(value, { from: "en", to: lang });
+    console.log(
+      `${langBold} Translated ${o} (${chalk.yellowBright(
+        value
+      )}) to ${chalk.bold.yellowBright(translated.text)}`
     );
+    enFile[o] = translated.text;
     return;
   }
-  translate(value, { from: "en", to: lang }).then((res) => {
-    console.log(`[${lang}] Translated ${o} (${value}) to ${res.text}`);
-    newTrans[o] = res.text;
-    fs.writeFileSync(
-      `./lang/${lang}.json`,
-      JSON.stringify(newTrans, null, 2)
-    );
-  });
-});
+})();
