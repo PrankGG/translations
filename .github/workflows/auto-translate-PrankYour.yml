@@ -1,4 +1,4 @@
-name: Auto Translate
+name: Auto Translate PrankYour
 
 on:
   push:
@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  AutoTranslate:
+  AutoTranslatePrankYour:
     runs-on: ubuntu-latest
 
     strategy:
