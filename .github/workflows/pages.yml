@@ -3,9 +3,7 @@ name: Deploy language files to Pages
 on:
   push:
     branches: ["main"]
-    paths:
-      - "lang/**"
-      - ".github/workflows/pages.yml"
+    
   workflow_dispatch:
 
 permissions:
