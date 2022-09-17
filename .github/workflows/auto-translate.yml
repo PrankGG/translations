@@ -13,6 +13,9 @@ concurrency:
   group: "AutoTranslate"
   cancel-in-progress: true
 
+env:
+  FORCE_COLOR: 3
+
 jobs:
   AutoTranslate:
     runs-on: ubuntu-latest
