@@ -13,7 +13,7 @@ let overwrite = fs.existsSync(`./overwrite/${lang}.overwrite.json`)
   console.log(`${langBold} Starting translation...`);
   await translate(enFile);
   fs.writeFileSync(`./lang/${lang}.json`, JSON.stringify(enFile, null, 2));
-  console.log(`${langBold} Finished translation!`, enFile);
+  console.log(`${langBold} Finished translation!`);
   async function translate(o) {
     let translated = await googleTranslate(o, { from: "en", to: lang });
     Object.keys(translated).forEach((u) => {
