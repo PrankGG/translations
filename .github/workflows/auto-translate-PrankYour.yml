@@ -9,8 +9,8 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: "AutoTranslatePrankYour"
-  cancel-in-progress: true
+  group: "AutoTranslate"
+  cancel-in-progress: false
   
 env:
   FORCE_COLOR: 3
