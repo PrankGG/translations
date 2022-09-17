@@ -44,5 +44,17 @@
   "footer.resources.status": "Statut",
   "footer.all.rights.reserved": "Tous les droits sont réservés.",
   "footer.not.affiliated": "Non affilié à Discord, Inc. ou à l'un de ses affiliés.",
-  "footer.made.with.love": "Made With Love par Prank.gg"
+  "footer.made.with.love": "Made With Love par Prank.gg",
+  "dashboard.user": "Utilisatrice",
+  "dashboard.pranks": "Farces",
+  "dashboard.analytics": "Analytique",
+  "dashboard.create-link": "Créer un lien",
+  "dashboard.pranks.discord-nitro.title": "Discord Nitro Prank",
+  "dashboard.pranks.discord-nitro.subtitle": "Prank Vos amis avec un faux cadeau Nitro Discord!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "Farce nitro",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "Pranche de discorde mobile",
+  "dashboard.pranks.youtube-prank.title": "Férarçage Youtube",
+  "dashboard.pranks.youtube-prank.subtitle": "Prank Vos amis avec un faux lien YouTube, entrez simplement la vidéo pour se déguiser comme dans le premier champ!",
+  "dashboard.pranks.youtube-prank.disguised-as": "Déguisé en",
+  "dashboard.analytics.created": "Établie"
 }

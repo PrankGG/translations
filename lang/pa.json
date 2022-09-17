@@ -44,5 +44,17 @@
   "footer.resources.status": "ਸਥਿਤੀ",
   "footer.all.rights.reserved": "ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ.",
   "footer.not.affiliated": "ਡਿਸਕੋਰਡ, ਇੰਕ. ਜਾਂ ਇਸਦੇ ਕਿਸੇ ਵੀ ਸਹਾਇਕ ਤੌਰ ਤੇ ਸਬੰਧਤ ਨਹੀਂ.",
-  "footer.made.with.love": "ਪਿਆਰ ਨਾਲ ਪਿਆਰ ਨਾਲ"
+  "footer.made.with.love": "ਪਿਆਰ ਨਾਲ ਪਿਆਰ ਨਾਲ",
+  "dashboard.user": "ਉਪਭੋਗਤਾ",
+  "dashboard.pranks": "ਅਰਕਸ",
+  "dashboard.analytics": "ਵਿਸ਼ਲੇਸ਼ਣ",
+  "dashboard.create-link": "ਲਿੰਕ ਬਣਾਓ",
+  "dashboard.pranks.discord-nitro.title": "ਡਿਸਟਰੋਰ ਨਾਈਟ੍ਰੋ ਪ੍ਰੈਂਕ",
+  "dashboard.pranks.discord-nitro.subtitle": "ਝੂਠੇ ਡਿਸਟਰੋਰਡ ਨਾਈਟ੍ਰੋ ਦਾਤ ਨਾਲ ਆਪਣੇ ਦੋਸਤਾਂ ਨੂੰ ਪ੍ਰੇਮ ਕਰੋ!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "ਨਾਈਟ੍ਰੋ ਪ੍ਰੈਂਕ",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "ਮੋਬਾਈਲ ਡਿਸਪੋਰਟ ਪ੍ਰੈਂਕ",
+  "dashboard.pranks.youtube-prank.title": "ਯੂਟਿ .ਬ ਤੇਜ਼",
+  "dashboard.pranks.youtube-prank.subtitle": "ਆਪਣੇ ਦੋਸਤਾਂ ਨੂੰ ਇੱਕ ਨਕਲੀ ਯੂਟਿ ube ਬ ਲਿੰਕ ਨਾਲ ਪ੍ਰਬਲ ਕਰੋ, ਸਿਰਫ ਪਹਿਲੇ ਖੇਤਰ ਦੇ ਰੂਪ ਵਿੱਚ ਵਿਘਨ ਪਾਉਣ ਲਈ ਵੀਡੀਓ ਇਨਪੁਟ ਕਰੋ!",
+  "dashboard.pranks.youtube-prank.disguised-as": "ਦੇ ਰੂਪ ਵਿੱਚ",
+  "dashboard.analytics.created": "ਬਣਾਇਆ"
 }

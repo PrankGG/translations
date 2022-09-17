@@ -44,5 +44,17 @@
   "footer.resources.status": "Status",
   "footer.all.rights.reserved": "Seluruh hak cipta.",
   "footer.not.affiliated": "Tidak berafiliasi dengan Discord, Inc. atau afiliasinya.",
-  "footer.made.with.love": "Dibuat dengan cinta oleh Prank.gg"
+  "footer.made.with.love": "Dibuat dengan cinta oleh Prank.gg",
+  "dashboard.user": "Pengguna",
+  "dashboard.pranks": "Lelucon",
+  "dashboard.analytics": "Analitik",
+  "dashboard.create-link": "Buat tautan",
+  "dashboard.pranks.discord-nitro.title": "Perselisihan Nitro Prank",
+  "dashboard.pranks.discord-nitro.subtitle": "Dentang teman -teman Anda dengan hadiah nitro perselisihan palsu!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "Prank Nitro",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "Prank Perselisihan Seluler",
+  "dashboard.pranks.youtube-prank.title": "Prank YouTube",
+  "dashboard.pranks.youtube-prank.subtitle": "Telangkai teman Anda dengan tautan YouTube palsu, masukkan saja video untuk menyamarkan seperti di bidang pertama!",
+  "dashboard.pranks.youtube-prank.disguised-as": "Menyamar sebagai",
+  "dashboard.analytics.created": "Dibuat"
 }

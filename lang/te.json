@@ -44,5 +44,17 @@
   "footer.resources.status": "స్థితి",
   "footer.all.rights.reserved": "అన్ని హక్కులూ ప్రత్యేకించుకోవడమైనది.",
   "footer.not.affiliated": "డిస్కార్డ్, ఇంక్ లేదా దాని అనుబంధ సంస్థలతో అనుబంధంగా లేదు.",
-  "footer.made.with.love": "Prank.gg చేత ప్రేమతో తయారు చేయబడింది"
+  "footer.made.with.love": "Prank.gg చేత ప్రేమతో తయారు చేయబడింది",
+  "dashboard.user": "వినియోగదారు",
+  "dashboard.pranks": "చిలిపి",
+  "dashboard.analytics": "విశ్లేషణలు",
+  "dashboard.create-link": "లింక్‌ను సృష్టించండి",
+  "dashboard.pranks.discord-nitro.title": "డిస్కార్డ్ నైట్రో చిలిపి",
+  "dashboard.pranks.discord-nitro.subtitle": "నకిలీ అసమ్మతి నైట్రో బహుమతితో మీ స్నేహితులను చిలిపిగా చేయండి!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "నైట్రో చిలిపి",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "మొబైల్ డిస్కార్డ్ చిలిపి",
+  "dashboard.pranks.youtube-prank.title": "యూట్యూబ్ చిలిపి",
+  "dashboard.pranks.youtube-prank.subtitle": "మీ స్నేహితులను నకిలీ యూట్యూబ్ లింక్‌తో చిలిపిగా చేయండి, మొదటి ఫీల్డ్‌లో ఉన్నట్లుగా మారువేషంలో వీడియోను ఇన్పుట్ చేయండి!",
+  "dashboard.pranks.youtube-prank.disguised-as": "మారువేషంలో",
+  "dashboard.analytics.created": "సృష్టించబడింది"
 }

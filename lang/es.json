@@ -44,5 +44,17 @@
   "footer.resources.status": "Estado",
   "footer.all.rights.reserved": "Todos los derechos reservados.",
   "footer.not.affiliated": "No afiliado a Discord, Inc. ni a cualquiera de sus afiliados.",
-  "footer.made.with.love": "Hecho con amor por prank.gg"
+  "footer.made.with.love": "Hecho con amor por prank.gg",
+  "dashboard.user": "Usuaria",
+  "dashboard.pranks": "Broma",
+  "dashboard.analytics": "Analítica",
+  "dashboard.create-link": "Crear enlace",
+  "dashboard.pranks.discord-nitro.title": "Broma nitro de discordia",
+  "dashboard.pranks.discord-nitro.subtitle": "¡Broma a tus amigos con un regalo Nitro falso de Discord!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "Broma",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "Broma de discordia móvil",
+  "dashboard.pranks.youtube-prank.title": "Broma de youtube",
+  "dashboard.pranks.youtube-prank.subtitle": "¡Presta, bromea a sus amigos con un enlace falso de YouTube, simplemente ingrese el video para disfrazarlo como en el primer campo!",
+  "dashboard.pranks.youtube-prank.disguised-as": "Disfrazado de",
+  "dashboard.analytics.created": "Creada"
 }

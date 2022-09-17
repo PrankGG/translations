@@ -27,7 +27,7 @@
   "navbar.loading.stats": "Loading Stats ...",
   "navbar.stats.pranked": "yar gada",
   "navbar.auth.login": "Shiga",
-  "navbar.auth.logout": "Dodout",
+  "navbar.auth.logout": "Logout",
   "preloader.didyouknow": "Shin kun sani",
   "footer.words.prank": "Yi ado",
   "footer.words.nitroPrank": "Nitro prank",
@@ -44,5 +44,17 @@
   "footer.resources.status": "Matsayi",
   "footer.all.rights.reserved": "Dukkan hakkoki.",
   "footer.not.affiliated": "Ba a tarayya da Discord ba, Inc. ko kowane ɗayan abokan haɗin sa.",
-  "footer.made.with.love": "Sanya tare da soyayya da Prank.gg"
+  "footer.made.with.love": "Sanya tare da soyayya da Prank.gg",
+  "dashboard.user": "Wadda take amfani",
+  "dashboard.pranks": "Cranks",
+  "dashboard.analytics": "Nazari",
+  "dashboard.create-link": "Ƙirƙiri mahaɗi",
+  "dashboard.pranks.discord-nitro.title": "Discord Nitro Prank",
+  "dashboard.pranks.discord-nitro.subtitle": "Kace abokanka tare da kyauta na Nitro!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "Nitro prank",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "Canjin Wayar hannu",
+  "dashboard.pranks.youtube-prank.title": "Youtube Prank",
+  "dashboard.pranks.youtube-prank.subtitle": "Kace abokan ka tare da hanyar YouTube ta YouTube, kawai shigar da bidiyon don gano kamar yadda a filin farko!",
+  "dashboard.pranks.youtube-prank.disguised-as": "Dasawa kamar",
+  "dashboard.analytics.created": "Halitta"
 }

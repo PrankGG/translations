@@ -44,5 +44,17 @@
   "footer.resources.status": "दर्जा",
   "footer.all.rights.reserved": "सर्वाधिकार सुरक्षित।",
   "footer.not.affiliated": "डिस्कोर्ड, इंक। या इसके किसी भी सहयोगी से संबद्ध नहीं।",
-  "footer.made.with.love": "Prank.gg द्वारा प्यार के साथ बनाया गया"
+  "footer.made.with.love": "Prank.gg द्वारा प्यार के साथ बनाया गया",
+  "dashboard.user": "उपयोगकर्ता",
+  "dashboard.pranks": "धृष्टतायाँ",
+  "dashboard.analytics": "एनालिटिक्स",
+  "dashboard.create-link": "लिंक बनाएँ",
+  "dashboard.pranks.discord-nitro.title": "डिस्कोर्ड नाइट्रो शरारत",
+  "dashboard.pranks.discord-nitro.subtitle": "एक नकली डिस्कोर्ड नाइट्रो उपहार के साथ अपने दोस्तों को शरारत करें!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "नाइट्रो प्रैंक",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "मोबाइल डिसॉर्डर प्रैंक",
+  "dashboard.pranks.youtube-prank.title": "YouTube प्रैंक",
+  "dashboard.pranks.youtube-prank.subtitle": "एक नकली YouTube लिंक के साथ अपने दोस्तों को प्रैंक करें, बस पहले क्षेत्र में के रूप में भेस के लिए वीडियो को इनपुट करें!",
+  "dashboard.pranks.youtube-prank.disguised-as": "के रूप में प्रच्छन्न",
+  "dashboard.analytics.created": "बनाया था"
 }

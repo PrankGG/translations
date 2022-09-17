@@ -44,5 +44,17 @@
   "footer.resources.status": "وضعیت",
   "footer.all.rights.reserved": "کلیه حقوق محفوظ است.",
   "footer.not.affiliated": "وابسته به Discord ، Inc. یا هر یک از شرکت های وابسته آن نیست.",
-  "footer.made.with.love": "ساخته شده با عشق توسط schank.gg"
+  "footer.made.with.love": "ساخته شده با عشق توسط schank.gg",
+  "dashboard.user": "کاربر",
+  "dashboard.pranks": "شوخی",
+  "dashboard.analytics": "تجزیه و تحلیل",
+  "dashboard.create-link": "ایجاد پیوند",
+  "dashboard.pranks.discord-nitro.title": "شوخ طبعی نیترو",
+  "dashboard.pranks.discord-nitro.subtitle": "دوستان خود را با یک هدیه نیترو Discord جعلی شوخی کنید!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "شوخی نیترو",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "شوخی مخالف",
+  "dashboard.pranks.youtube-prank.title": "شوخی یوتیوب",
+  "dashboard.pranks.youtube-prank.subtitle": "دوستان خود را با یک لینک YouTube جعلی شوخی کنید ، فقط فیلم را برای مبدل کردن مانند قسمت اول وارد کنید!",
+  "dashboard.pranks.youtube-prank.disguised-as": "مبدل به عنوان",
+  "dashboard.analytics.created": "ایجاد شده"
 }

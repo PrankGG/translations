@@ -44,5 +44,17 @@
   "footer.resources.status": "状態",
   "footer.all.rights.reserved": "全著作権所有。",
   "footer.not.affiliated": "Discord、Inc。またはその関連会社に所属していません。",
-  "footer.made.with.love": "prank.ggによって愛を込めて作られました"
+  "footer.made.with.love": "prank.ggによって愛を込めて作られました",
+  "dashboard.user": "ユーザー",
+  "dashboard.pranks": "いたずら",
+  "dashboard.analytics": "分析",
+  "dashboard.create-link": "リンクを作成します",
+  "dashboard.pranks.discord-nitro.title": "不一致のニトロ・プランク",
+  "dashboard.pranks.discord-nitro.subtitle": "友達を偽の不一致のニトロギフトでいたずら！",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "ニトロいたずら",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "モバイルの不一致のいたずら",
+  "dashboard.pranks.youtube-prank.title": "YouTubeいたずら",
+  "dashboard.pranks.youtube-prank.subtitle": "偽のYouTubeリンクで友達をいたずらして、最初のフィールドのように変装するためにビデオを入力してください！",
+  "dashboard.pranks.youtube-prank.disguised-as": "偽装されています",
+  "dashboard.analytics.created": "作成した"
 }

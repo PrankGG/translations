@@ -44,5 +44,17 @@
   "footer.resources.status": "地位",
   "footer.all.rights.reserved": "版權所有。",
   "footer.not.affiliated": "不隸屬於Discord，Inc。或其任何關聯公司。",
-  "footer.made.with.love": "用prank.gg用愛製成"
+  "footer.made.with.love": "用prank.gg用愛製成",
+  "dashboard.user": "用戶",
+  "dashboard.pranks": "惡作劇",
+  "dashboard.analytics": "分析",
+  "dashboard.create-link": "創建鏈接",
+  "dashboard.pranks.discord-nitro.title": "Discord Nitro惡作劇",
+  "dashboard.pranks.discord-nitro.subtitle": "給您的朋友們用假的不和諧硝基禮物來惡作劇！",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "硝基惡作劇",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "手機不和諧惡作劇",
+  "dashboard.pranks.youtube-prank.title": "YouTube惡作劇",
+  "dashboard.pranks.youtube-prank.subtitle": "用假的YouTube鏈接來惡作劇，只需輸入視頻即可掩飾，就像在第一個領域一樣！",
+  "dashboard.pranks.youtube-prank.disguised-as": "偽裝為",
+  "dashboard.analytics.created": "創建"
 }

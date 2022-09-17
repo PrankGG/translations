@@ -44,5 +44,17 @@
   "footer.resources.status": "Статус",
   "footer.all.rights.reserved": "Все права защищены.",
   "footer.not.affiliated": "Не связан с Discord, Inc. или каким -либо из ее филиалов.",
-  "footer.made.with.love": "Сделано с любовью от Prank.gg"
+  "footer.made.with.love": "Сделано с любовью от Prank.gg",
+  "dashboard.user": "Пользователь",
+  "dashboard.pranks": "Шутки",
+  "dashboard.analytics": "Аналитика",
+  "dashboard.create-link": "Создайте ссылку",
+  "dashboard.pranks.discord-nitro.title": "Discord Nitro Rank",
+  "dashboard.pranks.discord-nitro.subtitle": "Бросьте своих друзей с помощью фальшивого подарка Discord Nitro!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "Нитрокамерная шутка",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "Мобильная дискорда",
+  "dashboard.pranks.youtube-prank.title": "YouTube шутка",
+  "dashboard.pranks.youtube-prank.subtitle": "Бросьте своих друзей по искусственной ссылке на YouTube, просто введите видео, чтобы замаскировать, как в первом поле!",
+  "dashboard.pranks.youtube-prank.disguised-as": "Замаскирован как",
+  "dashboard.analytics.created": "Созданный"
 }

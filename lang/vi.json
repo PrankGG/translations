@@ -44,5 +44,17 @@
   "footer.resources.status": "Trạng thái",
   "footer.all.rights.reserved": "Đã đăng ký Bản quyền.",
   "footer.not.affiliated": "Không liên kết với Discord, Inc. hoặc bất kỳ chi nhánh nào của nó.",
-  "footer.made.with.love": "Được làm bằng tình yêu của Prank.gg"
+  "footer.made.with.love": "Được làm bằng tình yêu của Prank.gg",
+  "dashboard.user": "Người sử dụng",
+  "dashboard.pranks": "Trò đùa",
+  "dashboard.analytics": "phân tích",
+  "dashboard.create-link": "Tạo đường link",
+  "dashboard.pranks.discord-nitro.title": "Discord nitro Prank",
+  "dashboard.pranks.discord-nitro.subtitle": "Trò đùa với bạn bè của bạn với một món quà nitro bất hòa giả!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "Nitro Prank",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "Di động Discord Prank",
+  "dashboard.pranks.youtube-prank.title": "Trò chơi khăm YouTube",
+  "dashboard.pranks.youtube-prank.subtitle": "Trò đùa với bạn bè của bạn với một liên kết YouTube giả, chỉ cần nhập video để ngụy trang như trong trường đầu tiên!",
+  "dashboard.pranks.youtube-prank.disguised-as": "Cải trang thành",
+  "dashboard.analytics.created": "Tạo"
 }

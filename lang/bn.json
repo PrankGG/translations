@@ -44,5 +44,17 @@
   "footer.resources.status": "স্থিতি",
   "footer.all.rights.reserved": "সমস্ত অধিকার সংরক্ষিত.",
   "footer.not.affiliated": "ডিসকর্ড, ইনক। বা এর কোনও অনুমোদিত সংস্থাগুলির সাথে অনুমোদিত নয়।",
-  "footer.made.with.love": "প্রঙ্ক.জিজি দ্বারা প্রেম দিয়ে তৈরি"
+  "footer.made.with.love": "প্রঙ্ক.জিজি দ্বারা প্রেম দিয়ে তৈরি",
+  "dashboard.user": "ব্যবহারকারী",
+  "dashboard.pranks": "Ranks",
+  "dashboard.analytics": "বিশ্লেষণ",
+  "dashboard.create-link": "লিঙ্ক তৈরি করুন",
+  "dashboard.pranks.discord-nitro.title": "ডিসকর্ড নাইট্রো প্র্যাঙ্ক",
+  "dashboard.pranks.discord-nitro.subtitle": "একটি জাল ডিসকর্ড নাইট্রো উপহার দিয়ে আপনার বন্ধুদের প্রান!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "নাইট্রো প্রান",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "মোবাইল ডিসকর্ড প্রান",
+  "dashboard.pranks.youtube-prank.title": "ইউটিউব প্রান",
+  "dashboard.pranks.youtube-prank.subtitle": "আপনার বন্ধুদের একটি জাল ইউটিউব লিঙ্ক দিয়ে প্রান, প্রথম ক্ষেত্রের মতো ছদ্মবেশে ভিডিওটি ইনপুট করুন!",
+  "dashboard.pranks.youtube-prank.disguised-as": "ছদ্মবেশ হিসাবে",
+  "dashboard.analytics.created": "তৈরি"
 }

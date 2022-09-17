@@ -44,5 +44,17 @@
   "footer.resources.status": "Status",
   "footer.all.rights.reserved": "Alle Rechte vorbehalten.",
   "footer.not.affiliated": "Nicht mit Discord, Inc. oder einer seiner Partner verbunden.",
-  "footer.made.with.love": "Mit Liebe von Streich gemacht.gg"
+  "footer.made.with.love": "Mit Liebe von Streich gemacht.gg",
+  "dashboard.user": "Benutzer",
+  "dashboard.pranks": "Streiche",
+  "dashboard.analytics": "Analyse",
+  "dashboard.create-link": "Verknüpfung erstellen",
+  "dashboard.pranks.discord-nitro.title": "Discord Nitro Streich",
+  "dashboard.pranks.discord-nitro.subtitle": "Streiche deine Freunde mit einem gefälschten Discord Nitro -Geschenk!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "Nitro -Streich",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "Mobile Discord Streich",
+  "dashboard.pranks.youtube-prank.title": "YouTube Streich",
+  "dashboard.pranks.youtube-prank.subtitle": "Streiche deine Freunde mit einem gefälschten YouTube -Link. Geben Sie einfach das Video ein, um sich wie im ersten Feld zu verschleiern!",
+  "dashboard.pranks.youtube-prank.disguised-as": "Getarnt als",
+  "dashboard.analytics.created": "Erstellt"
 }

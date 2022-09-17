@@ -44,5 +44,17 @@
   "footer.resources.status": "حالة",
   "footer.all.rights.reserved": "كل الحقوق محفوظة.",
   "footer.not.affiliated": "لا تابعة لشركة Discord ، Inc. أو أي من الشركات التابعة لها.",
-  "footer.made.with.love": "صنع مع الحب من Prank.gg"
+  "footer.made.with.love": "صنع مع الحب من Prank.gg",
+  "dashboard.user": "المستعمل",
+  "dashboard.pranks": "مزح",
+  "dashboard.analytics": "التحليلات",
+  "dashboard.create-link": "إنشاء رابط",
+  "dashboard.pranks.discord-nitro.title": "Discord نيترو مزحة",
+  "dashboard.pranks.discord-nitro.subtitle": "مزحة أصدقائك مع هدية نيترو الخلاف مزيف!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "مزحة نيترو",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "مزحة الخلاف المتنقلة",
+  "dashboard.pranks.youtube-prank.title": "مزحة يوتيوب",
+  "dashboard.pranks.youtube-prank.subtitle": "مزحة أصدقائك مع رابط YouTube مزيف ، ما عليك سوى إدخال الفيديو لتخفي كما في الحقل الأول!",
+  "dashboard.pranks.youtube-prank.disguised-as": "المقنعة كما",
+  "dashboard.analytics.created": "مخلوق"
 }

@@ -44,5 +44,17 @@
   "footer.resources.status": "Hali",
   "footer.all.rights.reserved": "Haki zote zimehifadhiwa.",
   "footer.not.affiliated": "Haihusiani na Discord, Inc. au washirika wake wowote.",
-  "footer.made.with.love": "Imetengenezwa na upendo na prank.gg"
+  "footer.made.with.love": "Imetengenezwa na upendo na prank.gg",
+  "dashboard.user": "Mtumiaji",
+  "dashboard.pranks": "Pranks",
+  "dashboard.analytics": "Uchambuzi",
+  "dashboard.create-link": "Unda kiunga",
+  "dashboard.pranks.discord-nitro.title": "Discord Nitro Prank",
+  "dashboard.pranks.discord-nitro.subtitle": "Prank marafiki wako na zawadi bandia ya nitro!",
+  "dashboard.pranks.discord-nitro.nitro-rickroll": "Nitro prank",
+  "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "Prank ya Discord ya Simu",
+  "dashboard.pranks.youtube-prank.title": "Prank ya YouTube",
+  "dashboard.pranks.youtube-prank.subtitle": "Prank marafiki wako na kiunga bandia cha YouTube, ingiza tu video ili kujificha kama kwenye uwanja wa kwanza!",
+  "dashboard.pranks.youtube-prank.disguised-as": "Kujificha kama",
+  "dashboard.analytics.created": "Imeundwa"
 }
