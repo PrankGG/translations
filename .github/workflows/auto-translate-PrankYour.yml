@@ -11,6 +11,9 @@ on:
 concurrency:
   group: "AutoTranslatePrankYour"
   cancel-in-progress: true
+  
+env:
+  FORCE_COLOR: 3
 
 jobs:
   AutoTranslatePrankYour:
