@@ -33,6 +33,7 @@ jobs:
             do
               node translate-PrankYour.js $lang
             done < langs.txt
+      - run: date +%s >> lang/PrankYour/last-updated.txt
 
       - name: Import GPG key
         uses: crazy-max/ghaction-import-gpg@v5
