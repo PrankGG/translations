@@ -32,17 +32,20 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
       - run: npm i
-      - run: |
+      - name: Auto Translate
+        run: |
           while read lang
             do
               node translate.js $lang
             done < langs.txt
-      - run: |
+      - name: Auto Translate PrankYour
+        run: |
           while read lang
             do
               node translate-PrankYour.js $lang
             done < langs.txt
-      - run: |
+      - name: Update last-updated.txt
+        run: |
           date +%s > lang/last-updated.txt
           date +%s > lang/PrankYour/last-updated.txt
 
