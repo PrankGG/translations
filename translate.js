@@ -5,8 +5,8 @@ const fs = require("fs");
 let lang = process.argv[2];
 let langBold = chalk.bold.cyanBright(`[${lang}]`);
 let enFile = JSON.parse(fs.readFileSync("./lang/en.json", "utf8"));
-let overwrite = fs.existsSync(`./overwrite/${lang}.overwrite.json`)
-  ? JSON.parse(fs.readFileSync(`./overwrite/${lang}.overwrite.json`, "utf8"))
+let overwrite = fs.existsSync(`./overwrite/${lang}.json`)
+  ? JSON.parse(fs.readFileSync(`./overwrite/${lang}.json`, "utf8"))
   : {};
 
 (async () => {
