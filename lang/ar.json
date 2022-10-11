@@ -54,6 +54,8 @@
   "dashboard.pranks": "مزح",
   "dashboard.analytics": "التحليلات",
   "dashboard.create-link": "إنشاء رابط",
+  "dashboard.pranks.description": "لقد قمنا بتجميع مجموعة من المزح لمساعدتك في صياغة أصدقاءك بسهولة!",
+  "dashboard.analytics.description": "اكتشف معلومات حول مزحرك وكيف يتم استخدامها!",
   "dashboard.pranks.discord-nitro.title": "Discord نيترو مزحة",
   "dashboard.pranks.discord-nitro.subtitle": "مزحة أصدقائك مع هدية نيترو الخلاف مزيف!",
   "dashboard.pranks.discord-nitro.nitro-rickroll": "مزحة نيترو",

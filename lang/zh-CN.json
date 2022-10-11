@@ -54,12 +54,14 @@
   "dashboard.pranks": "恶作剧",
   "dashboard.analytics": "分析",
   "dashboard.create-link": "创建链接",
+  "dashboard.pranks.description": "我们已经编译了一系列恶作剧，以帮助您轻松恶作剧！",
+  "dashboard.analytics.description": "查找有关您的恶作剧以及如何使用它们的信息！",
   "dashboard.pranks.discord-nitro.title": "Discord Nitro恶作剧",
   "dashboard.pranks.discord-nitro.subtitle": "给您的朋友们用假的不和谐硝基礼物来恶作剧！",
   "dashboard.pranks.discord-nitro.nitro-rickroll": "硝基恶作剧",
   "dashboard.pranks.discord-nitro.mobile-nitro-rickroll": "手机不和谐恶作剧",
   "dashboard.pranks.youtube-prank.title": "YouTube恶作剧",
-  "dashboard.pranks.youtube-prank.subtitle": "用假的YouTube链接恶作剧，只需输入视频即可伪装！",
+  "dashboard.pranks.youtube-prank.subtitle": "用假的YouTube链接来恶作剧，只需输入视频即可掩饰，就像在第一个领域一样！",
   "dashboard.pranks.youtube-prank.disguised-as": "伪装为",
   "dashboard.analytics.created": "创建"
 }

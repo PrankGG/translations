@@ -54,6 +54,8 @@
   "dashboard.pranks": "惡作劇",
   "dashboard.analytics": "分析",
   "dashboard.create-link": "創建鏈接",
+  "dashboard.pranks.description": "我們已經編譯了一系列惡作劇，以幫助您輕鬆惡作劇！",
+  "dashboard.analytics.description": "查找有關您的惡作劇以及如何使用它們的信息！",
   "dashboard.pranks.discord-nitro.title": "Discord Nitro惡作劇",
   "dashboard.pranks.discord-nitro.subtitle": "給您的朋友們用假的不和諧硝基禮物來惡作劇！",
   "dashboard.pranks.discord-nitro.nitro-rickroll": "硝基惡作劇",

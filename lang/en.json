@@ -54,6 +54,8 @@
   "dashboard.pranks": "Pranks",
   "dashboard.analytics": "Analytics",
   "dashboard.create-link": "Create Link",
+  "dashboard.pranks.description": "We have compiled a collection of pranks to assist you in easily pranking your pals!",
+  "dashboard.analytics.description": "Find out Information about your pranks and how they are being used!",
   "dashboard.pranks.discord-nitro.title": "Discord Nitro Prank",
   "dashboard.pranks.discord-nitro.subtitle": "Prank your friends with a fake Discord Nitro gift!",
   "dashboard.pranks.discord-nitro.nitro-rickroll": "Nitro Prank",

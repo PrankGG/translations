@@ -54,6 +54,8 @@
   "dashboard.pranks": "Ranks",
   "dashboard.analytics": "বিশ্লেষণ",
   "dashboard.create-link": "লিঙ্ক তৈরি করুন",
+  "dashboard.pranks.description": "আপনার পালগুলি সহজেই ছড়িয়ে দিতে আপনাকে সহায়তা করার জন্য আমরা প্র্যাঙ্কগুলির একটি সংগ্রহ সংকলন করেছি!",
+  "dashboard.analytics.description": "আপনার প্রানস এবং সেগুলি কীভাবে ব্যবহৃত হচ্ছে সে সম্পর্কে তথ্য সন্ধান করুন!",
   "dashboard.pranks.discord-nitro.title": "ডিসকর্ড নাইট্রো প্র্যাঙ্ক",
   "dashboard.pranks.discord-nitro.subtitle": "একটি জাল ডিসকর্ড নাইট্রো উপহার দিয়ে আপনার বন্ধুদের প্রান!",
   "dashboard.pranks.discord-nitro.nitro-rickroll": "নাইট্রো প্রান",

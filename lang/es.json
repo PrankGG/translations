@@ -54,6 +54,8 @@
   "dashboard.pranks": "Bromas",
   "dashboard.analytics": "Analítica",
   "dashboard.create-link": "Crear enlace",
+  "dashboard.pranks.description": "¡Hemos compilado una colección de bromas para ayudarlo a prender fácilmente a sus amigos!",
+  "dashboard.analytics.description": "¡Descubre información sobre sus bromas y cómo se están utilizando!",
   "dashboard.pranks.discord-nitro.title": "Broma de nitro de discordia",
   "dashboard.pranks.discord-nitro.subtitle": "¡Broma a tus amigos con un regalo Nitro falso de Discord!",
   "dashboard.pranks.discord-nitro.nitro-rickroll": "Broma",
