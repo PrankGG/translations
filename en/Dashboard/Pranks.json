@@ -1,0 +1,18 @@
+{
+  "not_logged_in": {
+    "message": "Not Logged In",
+    "description": "You are not logged in, please log in to access this page.",
+    "redirectText": "Log In"
+  },
+  "title": "Pranks",
+  "cards": [
+    {
+      "title": "Discord Nitro Prank",
+      "description": "Prank your friends with a fake Discord Nitro gift!"
+    },
+    {
+      "title": "Discord Nitro Mobile Prank",
+      "description": "Prank your friends with a fake Discord Nitro Mobile gift!"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Pricing",
+  "subtitle": "vine boom",
+  "prank_pass": {
+    "title": "Prank Pass",
+    "description": "Get access to all of our pranks for one low price.",
+    "price": "$2.99",
+    "button": "Subscribe (renews monthly)",
+    "features": [
+      "Everything in Free",
+      "No Ads",
+      "More Pranks",
+      "Unlimited Links",
+      "More Domains",
+      "Custom Domains",
+      "Premium Support"
+    ]
+  },
+  "free": {
+    "title": "Free",
+    "description": "Get access to all of our pranks for free.",
+    "price": "$0.00",
+    "button": "Get Started",
+    "features": [
+      "5 Pranks",
+      "15 Domains",
+      "50 Links",
+      "Ads",
+      "Custom Domains",
+      "Limited Support"
+    ]
+  }
+}

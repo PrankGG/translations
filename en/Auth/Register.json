@@ -1,0 +1,35 @@
+{
+  "already_logged_in": {
+    "error": "You are already logged in?",
+    "description": "You are already logged in, please log out first if you want to register another account.",
+    "redirectText": "Home"
+  },
+  "register_success": {
+    "message": "Registration successful",
+    "description": "You have successfully registered, you can now log in.",
+    "redirectText": "Login"
+  },
+  "register_failed": {
+    "message": "Registration failed",
+    "confirmButtonText": "damn"
+  },
+  "title": "Let's get started!",
+  "subtitle": "We're glad you're here! Please register to continue.",
+  "or_use_email": "or use email",
+  "email_login": {
+    "email": {
+      "lable": "Email",
+      "error": "Please enter a valid email address"
+    },
+    "password": {
+      "lable": "password",
+      "error": "you need to enter a password which is at least minimum eight characters, at least one alphabet and one digit"
+    }
+  },
+  "button": "Register",
+  "side": {
+    "title": "Have an account?",
+    "subtitle": "Login to continue",
+    "button": "Sign In"
+  }
+}

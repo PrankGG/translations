@@ -1,0 +1,10 @@
+{
+  "viktor": "Viktor",
+  "alice": "Alice",
+  "message.viktor.1": "Hey {{alicePing}}, Thanks for helping me out with homework!",
+  "message.alice.1": "Helping you was so much fun, I'm glad I can help!!",
+  "message.viktor.2": "Here's Discord Nitro for you! https://discordgift.site/a",
+  "message.alice.2": "OMG thanks so much! I've been wanting to get Nitro for ages!",
+  "message.alice.3": "you got me good with that rickroll!",
+  "message.date": "Today at {{date}}"
+}

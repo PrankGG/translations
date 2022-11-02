@@ -1,0 +1,30 @@
+{
+  "already_logged_in": {
+    "message": "You are already logged in?",
+    "description": "You are already logged in, please log out first if you want to log in with another account.",
+    "redirectText": "Home"
+  },
+  "login_failed": {
+    "message": "Login failed",
+    "confirmButtonText": "damn"
+  },
+  "title": "Hey, we had missed you ❤️",
+  "subtitle": "We're glad you're here! Please login to continue.",
+  "or_use_email": "or use email",
+  "email_login": {
+    "email": {
+      "lable": "Email",
+      "error": "Please enter a valid email address"
+    },
+    "password": {
+      "lable": "password",
+      "error": "you need to enter a password which is at least minimum eight characters, at least one alphabet and one digit"
+    }
+  },
+  "button": "Sign In",
+  "side": {
+    "title": "Don't have an account?",
+    "subtitle": "Sign up to get started",
+    "button": "Sign Up"
+  }
+}

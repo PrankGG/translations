@@ -1,0 +1,18 @@
+{
+  "not_logged_in": {
+    "message": "Not Logged In",
+    "description": "You are not logged in, please log in to access this page.",
+    "redirectText": "Log In"
+  },
+  "title": "Dashboard",
+  "cards": [
+    {
+      "title": "Pranks",
+      "description": "We have compiled a collection of pranks to assist you in easily pranking your pals!"
+    },
+    {
+      "title": "Statistics",
+      "description": "Find out Information about your pranks and how they are being used!"
+    }
+  ]
+}
