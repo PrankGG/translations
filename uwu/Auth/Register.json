@@ -1,0 +1,35 @@
+{
+  "already_logged_in": {
+    "error": "uwu",
+    "description": "uwu",
+    "redirectText": "uwu"
+  },
+  "register_success": {
+    "message": "uwu",
+    "description": "uwu",
+    "redirectText": "uwu"
+  },
+  "register_failed": {
+    "message": "uwu",
+    "confirmButtonText": "uwu"
+  },
+  "title": "uwu",
+  "subtitle": "uwu",
+  "or_use_email": "uwu",
+  "email_login": {
+    "email": {
+      "lable": "uwu",
+      "error": "uwu"
+    },
+    "password": {
+      "lable": "uwu",
+      "error": "uwu"
+    }
+  },
+  "button": "uwu",
+  "side": {
+    "title": "uwu",
+    "subtitle": "uwu",
+    "button": "uwu"
+  }
+}
